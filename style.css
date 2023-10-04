@@ -1,0 +1,32 @@
+@media (min-width:700px){
+.body{ background: rgb(255, 0, 0);}
+}
+.body {
+    color: rgb(255, 255, 255);
+    background-color: red;
+}
+    img {
+    max-width: 100%;
+    height: auto;
+}
+
+    .header {
+    color: rgb(247, 247, 247);
+    font-family: Arial, "Roboto", sans-serif;
+    background-color: rgb(245, 0, 0);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center
+
+}
+    .linha-horizontal {
+    border: 1px solid #000; /* Define a cor e espessura da linha */
+    margin: 20px 0
+}
+
+    .pai {
+    display: grid;
+    color: rgb(0, 0, 0);
+}
+
